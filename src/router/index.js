@@ -25,7 +25,7 @@ import CadanganView from '@/views/CadanganView.vue'
 import TentangView from '@/views/TentangView.vue'
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
     { path: '/siapkan', name: 'setup', component: SetupView, meta: { bare: true, public: true } },
     { path: '/login', name: 'login', component: LoginView, meta: { bare: true, public: true } },
