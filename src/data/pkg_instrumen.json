@@ -1,0 +1,873 @@
+{
+ "GMP": {
+  "label": "Guru Mata Pelajaran / Kelas",
+  "kompetensi": [
+   {
+    "judul": "Mengenal karakteristik peserta didik",
+    "indikator": [
+     "Guru dapat mengidentifikasi karakteristik belajar setiap peserta didik di kelasnya.",
+     "Guru memastikan bahwa semua peserta didik mendapatkan kesempatan yang sama untuk berpartisipasi aktif dalam kegiatan pembelajaran.",
+     "Guru mencoba mengetahui penyebab penyimpangan perilaku peserta didik untuk mencegah agar perilaku tersebut tidak merugikan peserta didik lainnya."
+    ]
+   },
+   {
+    "judul": "Menguasai teori belajar dan prinsip-prinsip pembelajaran",
+    "indikator": [
+     "Guru memberi kesempatan kepada peserta didik untuk menguasai materi pembelajaran sesuai usia dan kemampuan belajarnya melalui pengaturan proses pembelajaran dan aktivitas yang bervariasi.",
+     "Guru selalu memastikan tingkat pemahaman peserta didik terhadap materi pembelajaran tertentu dan menyesuaikan aktivitas pembelajaran berikutnya berdasarkan tingkat pemahaman tersebut.",
+     "Guru dapat menjelaskan alasan pelaksanaan kegiatan/aktivitas yang dilakukannya, baik yang sesuai maupun yang berbeda dengan rencana, terkait keberhasilan pembelajaran.",
+     "Guru menggunakan berbagai teknik untuk memotiviasi kemauan belajar peserta didik.",
+     "Guru merencanakan kegiatan pembelajaran yang saling terkait satu sama lain, dengan memperhatikan tujuan pembelajaran maupun proses belajar peserta didik.",
+     "Guru memperhatikan respon peserta didik yang belum/kurang memahami materi pembelajaran yang diajarkan dan menggunakannya untuk memperbaiki rancangan pembelajaran berikutnya."
+    ]
+   },
+   {
+    "judul": "Pengembangan kurikulum",
+    "indikator": [
+     "Guru dapat menyusun silabus yang sesuai dengan kurikulum.",
+     "Guru merancang rencana pembelajaran yang sesuai dengan silabus untuk membahas materi ajar tertentu agar peserta didik dapat mencapai kompetensi dasar yang ditetapkan.",
+     "Guru mengembangkan materi pembelajaran untuk mencapai kompetensi dasar",
+     "Guru mengikuti urutan materi pembelajaran dengan memperhatikan tujuan pembelajaran.",
+     "Guru memilih materi pembelajaran yang: a) sesuai dengan tujuan pembelajaran, b) tepat dan mutakhir, c) sesuai dengan usia dan tingkat kemampuan belajar peserta didik, dan d) dapat dilaksanakan di kelas e) sesuai dengan konteks kehidupan sehari-hari peserta didik."
+    ]
+   },
+   {
+    "judul": "Kegiatan Pembelajaran yang Mendidik",
+    "indikator": [
+     "Guru melaksanakan aktivitas pembelajaran sesuai dengan rancangan yang telah disusun secara lengkap (termasuk pemberian informasi baru) yang mengindikasikan bahwa guru mengerti tentang tujuannya.",
+     "Guru melaksanakan aktivitas pembelajaran yang bertujuan untuk membantu proses belajar peserta didik, bukan untuk menguji sehingga membuat peserta didik merasa tertekan.",
+     "Guru menyikapi kesalahan yang dilakukan peserta didik sebagai tahapan proses pembelajaran, bukan semata-mata kesalahan yang harus dikoreksi. Misalnya: dengan mengetahui terlebih dahulu peserta didik lain yang setuju/tidak setuju dengan jawaban tersebut, sebelum memberikan penjelasan tentang jawaban yang benar",
+     "Guru melaksanakan kegiatan pembelajaran sesuai isi kurikulum dan mengkaitkannya dengan konteks kehidupan sehari-hari peserta didik.",
+     "Guru melakukan aktivitas pembelajaran secara bervariasi dengan mempertimbangkan waktu, kondisi kelas, usia dan tingkat kemampuan belajar dan mempertahankan perhatian peserta didik.",
+     "Guru mengelola kelas dengan efektif tanpa mendominasi atau sibuk dengan kegiatannya sendiri agar semua waktu peserta dapat dimanfaatkan secara produktif.",
+     "Guru memberikan banyak kesempatan kepada peserta didik untuk bertanya, mempraktikkan dan berinteraksi dengan peserta didik lain",
+     "Guru mengatur pelaksanaan aktivitas pembelajaran secara sistematis untuk membantu proses belajar peserta didik. Sebagai contoh: guru menambah informasi baru setelah mengevaluasi pemahaman peserta didik terhadap materi sebelumnya",
+     "Guru menggunakan alat bantu mengajar, dan/atau audio-visual (termasuk TIK) untuk meningkatkan motivasi belajar peserta didik dalam mencapai tujuan pembelajaran."
+    ]
+   },
+   {
+    "judul": "Memahami dan mengembangkan potensi",
+    "indikator": [
+     "Guru menganalisis hasil belajar berdasarkan segala bentuk penilaian terhadap setiap peserta didik untuk mengetahui tingkat kemajuan masing-masing.",
+     "Guru merancang dan melaksanakan aktivitas pembelajaran yang mendorong peserta didik untuk belajar sesuai dengan kecakapan dan pola belajar masing-masing.",
+     "Guru merancang dan melaksanakan aktivitas pembelajaran untuk memunculkan daya kreativitas dan kemampuan berfikir kritis peserta didik.",
+     "Guru secara aktif membantu peserta didik dalam proses pembelajaran dengan memberikan perhatian kepada setiap individu.",
+     "Guru dapat mengidentifikasi dengan benar tentang bakat, minat, potensi, dan kesulitan belajar"
+    ]
+   },
+   {
+    "judul": "Komunikasi dengan peserta didik",
+    "indikator": [
+     "Guru menggunakan pertanyaan untuk mengetahui pemahaman dan menjaga partisipasi peserta didik, termasuk memberikan pertanyaan terbuka yang menuntut peserta didik untuk menjawab dengan ide dan pengetahuan mereka.",
+     "Guru memberikan perhatian dan mendengarkan semua pertanyaan dan tanggapan peserta didik, tanpa menginterupsi, kecuali jika diperlukan untuk membantu atau mengklarifikasi pertanyaan/tanggapan tersebut.",
+     "Guru menanggapi pertanyaan peserta didik secara tepat, benar, dan mutakhir, sesuai tujuan pembelajaran dan isi kurikulum, tanpa mempermalukannya.",
+     "Guru menyajikan kegiatan pembelajaran yang dapat menumbuhkan kerja sama yang baik antar pesertadidik.",
+     "Guru mendengarkan dan memberikan perhatian terhadap semua jawaban peserta didik"
+    ]
+   },
+   {
+    "judul": "Penilaian dan evaluasi",
+    "indikator": [
+     "Guru menyusun alat penilaian yang sesuai dengan tujuan pembelajaran untuk mencapai kompetensi tertentu seperti yang tertulis dalam RPP.",
+     "Guru melaksanakan penilaian dengan berbagai teknik dan jenis penilaian, selain penilaian formal yang dilaksanakan sekolah, dan mengumumkan hasil serta implikasinya kepada peserta didik, tentang tingkat pemahaman terhadap materi pembelajaran yang telah dan akan dipelajari.",
+     "Guru menganalisis hasil penilaian untuk mengidentifikasi topik/kompetensi dasar yang sulit sehingga diketahui kekuatan dan kelemahan masing-masing peserta didik untuk keperluan remedial dan pengayaan.",
+     "Guru memanfaatkan masukan dari peserta didik dan merefleksikannya untuk meningkatkan pembelajaran selanjutnya, dan dapat membuktikannya melalui catatan, jurnal pembelajaran, rancangan pembelajaran, materi tambahan, dan sebagainya."
+    ]
+   },
+   {
+    "judul": "Bertindak sesuai dengan norma agama, hukum, sosial dan kebudayaan nasional\n                              Indonesia",
+    "indikator": [
+     "Guru menghargai dan mempromosikan prinsip-prinsip Pancasila sebagai dasar ideologi dan etika bagi semua warga Indonesia.",
+     "Guru mengembangkan kerjasama dan membina kebersamaan dengan teman sejawat tanpa memperhatikan perbedaan yang ada (misalnya: suku, agama, dan gender)."
+    ]
+   },
+   {
+    "judul": "Menunjukkan pribadi yang dewasa dan teladan",
+    "indikator": [
+     "Guru bertingkah laku sopan dalam berbicara, berpenampilan, dan berbuat terhadap semua peserta didik, orang tua, dan teman sejawat.",
+     "Guru mau membagi pengalamannya dengan teman sejawat, termasuk mengundang mereka untuk mengobservasi cara mengajarnya dan memberikan masukan.",
+     "Guru mampu mengelola pembelajaran yang membuktikan bahwa guru dihormati oleh peserta didik, sehingga semua peserta didik selalu memperhatikan guru dan berpartisipasi aktif dalam proses pembelajaran.",
+     "Guru bersikap dewasa dalam menerima masukan dari peserta didik dan memberikan kesempatan kepada peserta didik untuk berpartisipasi dalam proses pembelajaran.",
+     "Guru berperilaku baik untuk mencitrakan nama baik madrasah."
+    ]
+   },
+   {
+    "judul": "Etos kerja, tanggung jawab yang tinggi, dan rasa bangga menjadi guru",
+    "indikator": [
+     "Guru mengawali dan mengakhiri pembelajaran dengan tepat waktu.",
+     "Jika guru harus meninggalkan kelas, guru mengaktifkan siswa dengan melakukan hal-hal produktif terkait dengan mata pelajaran, dan meminta guru piket atau guru lain untuk mengawasi kelas.",
+     "Guru memenuhi jam mengajar dan dapat melakukan semua kegiatan lain di luar jam mengajar berdasarkan ijin dan persetujuan pengelola madrasah.",
+     "Guru meminta ijin dan memberitahu lebih awal, dengan memberikan alasan dan bukti yang sah jika tidak menghadiri kegiatan yang telah direncanakan, termasuk proses pembelajaran di kelas.",
+     "Guru menyelesaikan semua tugas administratif dan non-pembelajaran dengan tepat waktu sesuai standar yang ditetapkan.",
+     "Guru memanfaatkan waktu luang selain mengajar untuk kegiatan yang produktif terkait dengan tugasnya.",
+     "Guru memberikan kontribusi terhadap pengembangan sekolah dan mempunyai prestasi yang berdampak positif terhadap nama baik sekolah.",
+     "Guru merasa bangga dengan profesinya sebagai guru."
+    ]
+   },
+   {
+    "judul": "Bersikap inklusif, bertindak objektif, serta tidak diskriminatif",
+    "indikator": [
+     "Guru memperlakukan semua peserta didik secara adil, memberikan perhatian dan bantuan sesuai kebutuhan masing-masing, tanpa memperdulikan faktor personal.",
+     "Guru menjaga hubungan baik dan peduli dengan teman sejawat (bersifat inklusif), serta berkontribusi positif terhadap semua diskusi formal dan informal terkait dengan pekerjaannya.",
+     "Guru sering berinteraksi dengan peserta didik dan tidak membatasi perhatiannya hanya pada kelompok tertentu (misalnya: peserta didik yang pandai, kaya, berasal dari daerah yang sama dengan guru)."
+    ]
+   },
+   {
+    "judul": "Komunikasi dengan sesama guru, tenaga pendidikan, orang tua peserta didik, dan\n                                 masyarakat",
+    "indikator": [
+     "Guru menyampaikan informasi tentang kemajuan, kesulitan, dan potensi peserta didik kepada orang tuanya, baik dalam pertemuan formal maupun tidak formal antara guru dan orang tua, teman sejawat, dan dapat menunjukkan buktinya.",
+     "Guru ikut berperan aktif dalam kegiatan di luar pembelajaran yang diselenggarakan oleh sekolah dan masyarakat dan dapat memberikan bukti keikutsertaannya."
+    ]
+   },
+   {
+    "judul": "Penguasaan materi struktur konsep dan pola pikir keilmuan yang  mendukung mata\n                                 pelajaran yang diampu",
+    "indikator": [
+     "Guru mengintegrasikan materi pembelajaran dengan konsep- konsep yang terdapat di dalam Al Qur’an dan Hadits.",
+     "Guru melakukan pemetaan standar kompetensi dan kompetensi dasar untuk mata pelajaran yang diampunya, untuk mengidentifikasi materi pembelajaran yang dianggap sulit, melakukan perencanaan dan pelaksanaan pembelajaran, dan memperkirakan alokasi waktu yang diperlukan.",
+     "Guru menyusun materi, perencanaan dan pelaksanaan pembelajaran yang berisi informasi yang tepat, mutakhir, dan yang membantu peserta didik untuk memahami konsep materi pembelajaran."
+    ]
+   },
+   {
+    "judul": "Mengembangkan keprofesian melalui tindakan reflektif",
+    "indikator": [
+     "Guru melakukan evaluasi diri secara spesifik, lengkap, dan didukung dengan contoh pengalaman diri sendiri.",
+     "Guru memiliki jurnal pembelajaran, catatan masukan dari kolega atau hasil penilaian proses pembelajaran sebagai bukti yang menggambarkan kinerjanya.",
+     "Guru memanfaatkan bukti gambaran kinerjanya untuk mengembangkan perencanaan dan pelaksanaan pembelajaran selanjutnya dalam program Pengembangan Keprofesian Berkelanjutan (PKB).",
+     "Guru dapat mengaplikasikan pengalaman PKB dalam perencanaan, pelaksanaan, penilaian pembelajaran dan tindak lanjutnya.",
+     "Guru melakukan penelitian, mengembangkan karya inovasi, mengikuti kegiatan ilmiah (misalnya seminar, konferensi), dan aktif dalam melaksanakan PKB.",
+     "Guru dapat memanfaatkan TIK dalam berkomunikasi dan pelaksanaan PKB."
+    ]
+   }
+  ],
+  "kelompok": [
+   [
+    "Pedagogik",
+    1,
+    7
+   ],
+   [
+    "Kepribadian",
+    8,
+    10
+   ],
+   [
+    "Sosial",
+    11,
+    12
+   ],
+   [
+    "Profesional",
+    13,
+    14
+   ]
+  ]
+ },
+ "BK": {
+  "label": "Guru Bimbingan & Konseling",
+  "kompetensi": [
+   {
+    "judul": "Menguasai teori dan praksis pendidikan",
+    "indikator": [
+     "Guru BK/Konselor dapat menunjukkan dalam perencanaan layanan BK, sesuai dengan landasan dan prinsip-prinsip pendidikan serta pembelajaran yang aktif, kreatif, mandiri, dan berpusat pada peserta didik/konseli.",
+     "Guru BK/Konselor dapat menunjukkan dalam perencanaan layanan BK, sesuai dengan usia, tahap perkembangan, dan kebutuhan peserta didik/ konseli.",
+     "Guru BK/Konselor dapat menunjukkan dalam perencanaan layanan BK, sesuai dengan keragaman latar belakang budaya, ekonomi, dan sosial peserta didik/konseli."
+    ]
+   },
+   {
+    "judul": "Mengaplikasikan perkembangan fisiologis dan psikologis serta perilaku konseli",
+    "indikator": [
+     "Peserta didik/konseli diberi kesempatan dalam memperoleh layanan BK sesuai dengan jalur satuan pendidikan formal di lingkup kementerian agama",
+     "Peserta didik/konseli diberi kesempatan dalam memperoleh layanan BK sesuai dengan kebutuhan bakat, minat, dan potensi pribadi.",
+     "Peserta didik/konseli diberi kesempatan dalam memperoleh layanan BK sesuai dengan harapan untuk melanjutkan pendidikan dan pilihan karier."
+    ]
+   },
+   {
+    "judul": "Menguasai esensi layanan BK dalam jalur, jenis, dan jenjang satuan pendidikan",
+    "indikator": [
+     "Layanan BK yang diprogramkan oleh guru BK/ Konselor telah memenuhi esensi layanan pada jalur satuan pendidikan formal, nonformal dan informal.",
+     "Layanan BK yang diprogramkan oleh guru BK/ Konselor telah memenuhi esensi layanan pada jenis satuan pendidikan umum, kejuruan, keagamaan, dan kekhususan",
+     "Layanan BK yang diprogramkan oleh guru BK/ Konselor telah memenuhi esensi layanan pada jenjang Ibtidaiyah, Tsanawiyah, dan Aliyah"
+    ]
+   },
+   {
+    "judul": "Beriman dan bertakwa kepada Tuhan Yang Maha Esa",
+    "indikator": [
+     "Guru BK/Konselor berpenampilan rapih dan bersih.",
+     "Guru BK/Konselor berbicara dengan santun dan jujur kepada peserta didik/konseli.",
+     "Guru BK/Konselor bersikap dan mendorong kepada peserta didik/konseli untuk bersikap toleran.",
+     "Guru BK/Konselor memperlihatkan konsistensi dan memotivasi peserta didik/konseli dalam melaksanakan ibadah."
+    ]
+   },
+   {
+    "judul": "Menghargai dan menjunjung tinggi nilai-nilai kemanusiaan, individualitas dan\n                              kebebasan memilih",
+    "indikator": [
+     "Guru BK/Konselor merencanakan layanan BK yang mengacu kepada pengaplikasian pandangan dinamis tentang manusia sebagai mahluk bermoral spiritual, sosial, & individu.",
+     "Pelayanan BK yang dirancang oleh Guru BK/Konselor mendorong kepada pengembangan potensi positif individu.",
+     "Rancangan pelayanan BK mengacu kepada kebutuhan dan masukan balik peserta didik/konseli.",
+     "Pelayanan BK dirancang untuk mengembangkan sikap toleran dalam menjunjung hak azasi manusia pada peserta didik/konseli."
+    ]
+   },
+   {
+    "judul": "Menunjukkan integritas dan stabilitas kepribadian yang kuat",
+    "indikator": [
+     "Guru BK/Konselor menunjukkan kepribadian, kestabilan emosi dan perilaku yang terpuji, jujur, sabar, ramah, dan konsisten.",
+     "Guru BK/Konselor menunjukkan kepekaan dan bersikap empati terhadap keragaman dan perubahan.",
+     "Guru BK/Konselor menampilkan toleransi tinggi terhadap peserta didik/konseli yang menghadapi tress dan frustasi."
+    ]
+   },
+   {
+    "judul": "Menampilkan kinerja berkualitas tinggi",
+    "indikator": [
+     "Guru BK/Konselor memotivasi peserta didik/konseli untuk berpartisipasi aktif dalam layanan BK yang diberikan.",
+     "Guru BK/Konselor melaksanakan pelayanan BK yang efektif sesuai dengan rancangan untuk mencapai tujuan pelayanan BK dalam waktu yang tersedia.",
+     "Guru BK/Konselor melaksanakan tugas layanan BK secara mandiri, disiplin, dan semangat agar peserta didik/konseli berpartisipasi secara aktif."
+    ]
+   },
+   {
+    "judul": "Mengimplementasikan kolaborasi internal di tempat bekerja",
+    "indikator": [
+     "Guru BK/Konselor merencanakan pelayanan BK dengan menyertakan pihak-pihak terkait di madrasah.",
+     "Guru BK/Konselor melakukan kerjasama dengan pihak pihak terkait dalam melaksanakan pelayanan BK di madrasah.",
+     "Guru BK/Konselor dapat menunjukkan bukti bagaimana menjelaskan program dan hasil layanan BK kepada pihak-pihak terkait di sekolah.",
+     "Guru BK/Konselor dapat menunjukkan bukti permintaan guru lain untuk membantu penyelesaian permasalahan layanan."
+    ]
+   },
+   {
+    "judul": "Berperan dalam organisasi dan kegiatan profesi BK",
+    "indikator": [
+     "Guru BK/Konselor berpartisipasi aktif dalam proses pengembangan diri melalui organisasi profesi guru BK/Konselor.",
+     "Guru BK/Konselor dapat memanfaatkan organisasi profesi BK/Konselor untuk membangun kolaborasi dalam pengembangan program BK."
+    ]
+   },
+   {
+    "judul": "Mengimplementasikan kolaborasi antarprofesi",
+    "indikator": [
+     "Guru BK/Konselor dapat menunjukkan bukti melakukan interaksi dengan organisasi profesi lain.",
+     "Guru BK/Konselor dapat berkolaborasi dengan institusi atau profesi lain untuk mencapai tujuan pelayanan BK.",
+     "Guru BK/Konselor dapat melakukan referal kepada ahli lain untuk membantu penyelesaian permasalahan peserta didik/konseli sesuai kebutuhan"
+    ]
+   },
+   {
+    "judul": "Menguasai konsep dan praksis penilaian (assessment) untuk memahami kondisi, \n                                 kebutuhan, dan masalah konseli",
+    "indikator": [
+     "Guru BK/Konselor dapat mengembangkan instrumen non-tes (pedoman wawancara, angket, inventori, dll) untuk keperluan pelayanan BK.",
+     "Guru BK/Konselor dapat mengaplikasikan instrumen non-tes untuk mengungkapkan kondisi aktual peserta didik/konseli berkaitan dengan lingkungan.",
+     "Guru BK/Konselor dapat mendeskripsikan penilaian yang digunakan dalam pelayanan BK yang sesuai dengan kebutuhan peserta didik/konseli.",
+     "Guru BK/Konselor dapat memilih jenis penilaian (Instrumen Tugas Perkembangan/ITP, Alat Ungkap Masalah/AUM, Daftar Cek Masalah/DCM, atau instrumen non-tes lainnya) yang sesuai dengan kebutuhan layanan bimbingan dan konseling.",
+     "Guru BK/Konselor dapat mengadministrasikan penilaian (merencanakan, melaksanakan, mengolah data) untuk mengungkapkan kemampuan dasar dan kecenderungan pribadi peserta didik/konseli.",
+     "Guru BK/Konselor dapat mengadministrasikan teknik penilaian (data catatan pribadi, kemampuan akademik, hasil evaluasi belajar, dan hasil psikotes) untuk mengungkap masalah peserta didik/konseli",
+     "Guru BK/Konselor dapat menampilkan tanggung jawab profesional sesuai dengan azas BK (misalnya kerahasiaan, keterbukaan, kekinian.) dalam praktik penilaian dan penyampaian hasilnya"
+    ]
+   },
+   {
+    "judul": "Menguasai kerangka teoretik dan praksis BK",
+    "indikator": [
+     "Guru BK/Konselor dapat mengaplikasikan hakikat pelayanan BK (tujuan, prinsip, azas, fungsi, dan landasan).",
+     "Guru BK/Konselor dapat menentukankan arah profesi BK (peran sebagai guru BK/konselor).",
+     "Guru BK/Konselor dapat mengaplikasikan dasar-dasar pelayanan BK.",
+     "Guru BK/Konselor dapat mengaplikasikan pelayanan BK sesuai kondisi dan tuntutan wilayah kerja.",
+     "Guru BK/Konselor dapat mengaplikasikan pendekatan /model/jenis pelayanan dan kegiatan pendukung bimbingan dan konseling.",
+     "Guru BK/Konselor dapat mengaplikasikan praktik format pelayanan BK (klasikal, kelompok dan individual)"
+    ]
+   },
+   {
+    "judul": "Merancang program BK",
+    "indikator": [
+     "Guru BK/Konselor dapat menganalisis kebutuhan peserta didik/konseli.",
+     "Guru BK/Konselor dapat menyusun program pelayanan BK yang berkelanjutan berdasar kebutuhan peserta didik/konseli secara komprehensif dengan pendekatan perkembangan.",
+     "Guru BK/Konselor dapat menyusun rencana pelaksanaan program pelayanan BK.",
+     "Guru BK/Konselor dapat merencanakan sarana dan biaya penyelenggaraan program pelayanan BK."
+    ]
+   },
+   {
+    "judul": "Mengimplementasikan program BK yang komprehensif",
+    "indikator": [
+     "Guru BK/Konselor dapat melaksanakan program pelayanan BK.",
+     "Guru BK/Konselor dapat melaksanakan pendekatan kolaboratif dengan pihak terkait dalam pelayanan BK.",
+     "Guru BK/Konselor dapat memfasilitasi perkembangan akademik, karier, personal/ pribadi, dan sosial peserta didik/konseli.",
+     "Guru BK/Konselor dapat mengelola sarana dan biaya penyelenggaraan program pelayanan BK."
+    ]
+   },
+   {
+    "judul": "Menilai proses dan hasil kegiatan BK",
+    "indikator": [
+     "Guru BK/Konselor dapat melakukan evaluasi proses dan hasil program pelayanan BK.",
+     "Guru BK/Konselor dapat melakukan penyesuaian proses pelayanan BK.",
+     "Guru BK/Konselor dapat menginformasikan hasil pelaksanaan evaluasi pelayanan BK kepada pihak terkait.",
+     "Guru BK/Konselor dapat menggunakan hasil pelaksanaan evaluasi untuk merevisi dan mengembangkan program pelayanan BK"
+    ]
+   },
+   {
+    "judul": "Memiliki kesadaran dan komitmen terhadap etika profesional",
+    "indikator": [
+     "Guru BK/Konselor dapat memberdayakan kekuatan pribadi, dan keprofesionalan guru BK/konselor.",
+     "Guru BK/Konselor dapat meminimalisir keterbatasan pribadi dan faktor pendukung pelaksanaan pelayanan BK",
+     "Guru BK/Konselor dapat menyelenggarakan pelayanan BK sesuai dengan kewenangan dan kode etik profesional guru BK/konselor.",
+     "Guru BK/Konselor dapat mempertahankan objektivitas dan menjaga agar tidak larut dengan masalah peserta didik/konseli.",
+     "Guru BK/Konselor dapat melaksanakan layanan pendukung sesuai kebutuhan peserta didik/konseli (misalnya alih tangan kasus, kunjungan rumah, konferensi kasus, instrumen bimbingan, himpunan data).",
+     "Guru BK/Konselor dapat menghargai identitas profesional dan pengembangan profesi.",
+     "Guru BK/Konselor dapat mendahulukan kepentingan peserta didik/konseli daripada kepentingan pribadi guru BK/konselor."
+    ]
+   },
+   {
+    "judul": "Menguasai konsep dan praksis penelitian dalam BK",
+    "indikator": [
+     "Guru BK/Konselor dapat mendeskripsikan jenis dan metode penelitian dalam BK.",
+     "Guru BK/Konselor mampu merancang penelitian dalam BK.",
+     "Guru BK/Konselor dapat melaksanakan penelitian dalam BK.",
+     "Guru BK/Konselor dapat memanfaatkan hasil penelitian dalam BK dengan mengakses jurnal yang relevan."
+    ]
+   }
+  ]
+ },
+ "TIK": {
+  "label": "Guru TIK",
+  "kompetensi": [
+   {
+    "judul": "Mengenal karakteristik peserta didik",
+    "indikator": [
+     "Guru TIK dapat mengidentifikasi karakteristik belajar setiap peserta didik yang dibimbingnya.",
+     "Guru TIK dapat mengelola kelas agar semua Siswa mendapatkan kesempatan yang sama untuk berpartisipasi aktif dalam kegiatan bimbingan TIK.",
+     "Guru TIK membantu mengembangkan potensi dan mengatasi kekurangan peserta didik",
+     "Guru TIK memperhatikan peserta didik agar dapat mengikuti aktivitas bimbingan, sehingga peserta didik tersebut tidak termarginalkan (tersisihkan/diolok-olok/ minder).",
+     "Guru TIK dapat mengidentifikasi karakteristik belajar setiap peserta didik yang dibimbingnya."
+    ]
+   },
+   {
+    "judul": "Merancang Program Guru TIK",
+    "indikator": [
+     "Guru TIK merancang program bimbingan TIK (analisis kebutuhan, program tahunan, program semester, silabus, dan rencana pelaksanaan bimbingan TIK, rancangan evaluasi)",
+     "Guru TIK merancang program fasilitasi TIK untuk guru (analisis kebutuhan guru, penjadwalan, bentuk kegiatan)",
+     "Guru TIK merancang program fasilitasi TIK untuk tenaga kependidikan (analisis kebutuhan guru, penjadwalan, bentuk kegiatan)",
+     "Guru TIK merancang program fasilitasi TIK untuk Madrasah mengenai pembelajaran, penilaian, dan Ujian Berbasis Komputer dalam Jaringan"
+    ]
+   },
+   {
+    "judul": "Melaksanakan Kegiatan Pembimbingan TIK",
+    "indikator": [
+     "Guru TIK melaksanakan pembimbingan dengan menyenangkan peserta didik",
+     "Guru TIK melaksanakan pembimbingan yang menantang keingintahuan peserta didik.",
+     "Guru TIK melaksanakan pembimbingan TIK secara klasikal/kelompok atau individu.",
+     "Guru TIK mengecek kemajuan pemahaman dan keterampilan peserta didik terhadap materi pembimbingan TIK sebelum melanjutkan ke tahap/topik berikutnya.",
+     "Guru TIK melaksanakan pembimbingan untuk mencari, mengolah, menyimpan, menyajikan, serta menyebarkan data dan informasi dalam berbagai cara untuk mendukung kelancaran proses belajar Siswa.",
+     "Guru TIK memperhatikan setiap pertanyaan /jawaban peserta didik serta mengarahkannya untuk memaksimalkan pemahaman materi bimbingan.",
+     "Guru TIK melaksanakan penilaian proses dan/atau penilaian hasil pembimbingan TIK."
+    ]
+   },
+   {
+    "judul": "Bertindak sesuai dengan norma agama, hukum, sosial dan\nkebudayaan nasional",
+    "indikator": [
+     "Guru TIK menghargai, mengamalkan, dan mengembangkan nilai-nilai Pancasila sebagai dasar ideologi dan etika serta norma agama bagi semua warga Indonesia",
+     "Guru TIK memiliki rasa persatuan dan kesatuan sebagai bangsa Indonesia",
+     "Guru TIK Mengembangkan kerja sama dan membina kebersamaan dengan teman sejawat sesuai dengan kondisi dan keberadaan masing-masing.",
+     "Guru TIK saling menghormati dan menghargai teman sejawat sesuai dengan kondisi dan keberadaan masing-masing.",
+     "Guru TIK bertingkah laku sopan dalam berbicara, berpenampilan, dan berbuat terhadap semua peserta didik, orang tua, dan teman sejawat",
+     "Guru TIK bersikap dewasa dalam menerima masukan dari peserta didik dan memberikan kesempatan kepada peserta didik untuk berpartisipasi dalam proses bimbingan.",
+     "Guru TIK berperilaku baik sejalan dengan norma agama untuk mencitrakan nama baik Madrasah."
+    ]
+   },
+   {
+    "judul": "Memiliki etos kerja, tanggung jawab yang tinggi, rasa bangga menjadi guru",
+    "indikator": [
+     "Guru TIK menyelesaikan semua tugas administratif pembimbingan TIK dan atau tugas non- pembimbingan TIK dengan tepat waktu sesuai standar yang ditetapkan.",
+     "Guru TIK memanfaatkan waktu luang selain mengajar untuk kegiatan yang produktif terkait dengan tugasnya",
+     "Guru TIK memberikan kontribusi terhadap pengembangan madrasah dan mempunyai prestasi yang berdampak positif terhadap nama baik madrasah",
+     "Guru TIK merasa bangga dengan profesinya sebagai guru"
+    ]
+   },
+   {
+    "judul": "Bersikap inklusif, bertindak obyektif, serta tidak diskriminatif",
+    "indikator": [
+     "Guru TIK memperlakukan semua peserta didik secara adil, memberikan perhatian dan bantuan sesuai kebutuhan masing-masing secara objektif",
+     "Guru TIK sering berinteraksi dengan peserta didik dan tidak membatasi perhatiannya hanya pada kelompok tertentu (misalnya: peserta didik yang pandai, kaya, berasal dari daerah yang sama dengan guru).",
+     "Guru TIK menjaga hubungan baik dan peduli dengan teman sejawat (bersifat inklusif), serta berkontribusi positif terhadap semua diskusi formal dan informal terkait dengan pekerjaannya"
+    ]
+   },
+   {
+    "judul": "Komunikasi dan kolaborasi dengan sesama guru, tenaga kependidikan, orang tua peserta didik, dan masyarakat",
+    "indikator": [
+     "Guru TIK menyampaikan informasi tentang kemajuan, kesulitan, dan potensi peserta didik kepada orang tuanya",
+     "Guru TIK ikut berperan aktif dalam kegiatan di luar pembimbingan TIK yang diselenggarakan oleh madrasah, komunitas profesi dan masyarakat serta dapat memberikan bukti keikutsertaannya.",
+     "Guru TIK memperhatikan madrasah sebagai bagian dari masyarakat, berkomunikasi dengan masyarakat sekitar."
+    ]
+   },
+   {
+    "judul": "Menguasai konsep, kompetensi, materi TIK, dan pembimbingan TIK",
+    "indikator": [
+     "Guru TIK melakukan analisis/pemetaan kompetensi TIK untuk mengidentifikasi materi TIK sesuai kebutuhan peserta didik",
+     "Guru mengembangkan kerjasama dan membina kebersamaan dengan teman sejawat tanpa memperhatikan perbedaan yang ada (misalnya: suku, agama, dan gender).",
+     "Guru TIK memberikan materi bimbingan sesuai dengan sistematika keilmuan yang benar (konkret ke abstrak, sederhana ke kompleks, mudah ke sulit).",
+     "Guru TIK mengembangkan dan menyajikan materi pembimbingan untuk mencari, mengolah, menyimpan, menyajikan, serta menyebarkan data dan informasi dalam berbagai cara untuk mendukung kelancaran proses belajar peserta didik.",
+     "Guru TIK menjawab atau merespons pertanyaan secara tepat dan benar sesuai dengan konsep keilmuan TIK",
+     "Guru TIK mengaitkan materi bimbingan TIK dengan lingkungan dan kehidupan sehari-hari peserta didik serta kecakapan abad 21.",
+     "Guru TIK menyertakan informasi yang tepat dan mutakhir di dalam perencanaan dan pelaksanaan bimbingan TIK.",
+     "Guru TIK menguasai teknologi dan literasi digital, pendalaman pengetahuan dan kreasi pengetahuan TIK."
+    ]
+   },
+   {
+    "judul": "Fasilitas guru untuk pembelajaran berbasis TIK",
+    "indikator": [
+     "Guru TIK melaksanakan fasilitasi terhadap guru sesuai dengan kebutuhan atau tujuan fasilitasi yang direncanakan.",
+     "Guru TIK menyajikan materi TIK yang memenuhi kebutuhan guru lainnya dalam perencanaan pembelajaran, dalam penggunaan media pembelajaran dan sumber belajar, atau pengelolaan data dan laporan penilaian berbasis TIK.",
+     "Guru TIK memberikan fasilitasi sesuai dengan sistematika keilmuan (konkret ke abstrak, sederhana ke kompleks, mudah ke sulit).",
+     "Guru TIK menggunakan kegiatan belajar yang bervariasi selama proses fasilitasi.",
+     "Guru TIK menggunakan pendekatan pembelajaran orang dewasa selama proses fasilitasi.",
+     "Guru TIK melaksanakan fasilitasi secara individu atau kelompok",
+     "Guru TIK mengecek tingkat penguasaan materi oleh peserta fasilitasi sebelum melanjutkan ke pokok materi berikutnya"
+    ]
+   },
+   {
+    "judul": "Fasilitasi tenaga kependidikan untuk pengelolaan informasi",
+    "indikator": [
+     "Guru TIK melaksanakan fasilitasi terhadap guru sesuai dengan kebutuhan atau tujuan fasilitasi yang direncanakan.",
+     "Guru TIK menyajikan materi TIK yang memenuhi kebutuhan guru lainnya dalam perencanaan pembelajaran, dalam penggunaan media pembelajaran dan sumber belajar, atau pengelolaan data dan laporan penilaian berbasis TIK.",
+     "Guru TIK memberikan fasilitasi sesuai dengan sistematika keilmuan (konkret ke abstrak, sederhana ke kompleks, mudah ke sulit).",
+     "Guru TIK menggunakan kegiatan belajar yang bervariasi selama proses fasilitasi",
+     "Guru TIK menggunakan pendekatan pembelajaran orang dewasa selama proses fasilitasi",
+     "Guru TIK melaksanakan fasilitasi secara individu atau kelompok",
+     "Guru TIK mengecek tingkat penguasaan materi oleh peserta fasilitasi sebelum melanjutkan ke pokok materi berikutnya."
+    ]
+   },
+   {
+    "judul": "Melakukan dan melaporkan Evaluasi Program Pembimbingan dan Fasilitasi",
+    "indikator": [
+     "Guru TIK melakukan evaluasi dan membuat laporan kegiatan pembimbingan TIK bagi peserta didik.",
+     "Guru TIK melakukan evaluasi dan membuat laporan kegiatan fasilitasi TIK bagi guru lain",
+     "Guru TIK melakukan evaluasi dan membuat laporan kegiatan fasilitasi tenaga kependidikan",
+     "Guru TIK menyusun program tindak lanjut berdasarkan hasil evaluasi"
+    ]
+   },
+   {
+    "judul": "Mengembangkan keprofesionalan secara berkelanjutan dengan melakukan kegiatan yang refleksi",
+    "indikator": [
+     "Guru TIK melakukan evaluasi diri di awal tahun pelajaran.",
+     "Guru T IK memiliki Catatan Pelaksanaan Pembimbingan TIK bagi peserta didik.",
+     "Guru TIK memiliki Catatan Pelaksanaan Fasilitasi bagi guru lain dan tenaga kependidikan.",
+     "Guru TI K memanfaatkan hasil penilaian kinerjanya sebagai dasar untuk merencanakan peningkatan mutu proses pembimbingan dan fasilitasi TIK terhadap peserta didik, guru dan tenaga kependidikan.",
+     "Guru TIK mengaplikasikan pengalaman PKB dalam perencanaan, pelaksanaan, penilaian pembimbingan dan fasilitasi, dan tindak lanjutnya.",
+     "Guru TIK aktif meningkatkan dan mengembangkan kompetensinya melalui berbagai kegiatan Pengembangan Keprofesian Berkelanjutan."
+    ]
+   }
+  ]
+ },
+ "WKUR": {
+  "label": "Waka Kurikulum",
+  "kompetensi": [
+   {
+    "judul": "Kepribadian dan Sosial",
+    "indikator": [
+     "Berakhlak mulia, mengembangkan budaya dan tradisi akhlak mulia, dan menjadi teladan akhlak mulia bagi komunitas di sekolah/madrasah.",
+     "Melaksanakan tugas pokok dan fungsi sebagai wakil kepala sekolah dengan penuh kejujuran, ketulusan, komitmen, dan integritas.",
+     "Bersikap terbuka dalam melaksanakan tugas pokok dan fungsi sebagai wakil kepala sekolah/madrasah.",
+     "Mengendalikan diri dalam menghadapi masalah dan tantangan sebagai wakil kepala sekolah/madrasah.",
+     "Berpartisipasi dalam kegiatan social kemasyarakatan.",
+     "Tanggap dan peduli terhadap kepentingan orang atau kelompok lain.",
+     "Mengembangkan dan mengelola hubungan sekolah/madrasah dengan pihak lain di luar sekolah dalam rangka mendapatkan dukungan ide, sumber belajar, dan pembiayaan sekolah/madrasah."
+    ]
+   },
+   {
+    "judul": "Kepemimpinan",
+    "indikator": [
+     "Bertindak sesuai dengan visi dan misi sekolah/madrasah.",
+     "Merumuskan tujuan yang menantang diri sendiri dan orang lain untuk mencapai standard yang tinggi.",
+     "Mengembangkan sekolah/madrasah menuju organisasi pembelajaran (learning organization).",
+     "Menciptakan budaya dan iklim sekolah/madrasah yang kondusif dan inovatif bagi pembelajaran.",
+     "Memegang teguh tujuan sekolah dengan menjadi contoh dan bertindak sebagai pemimpin pembelajaran.",
+     "Melaksanakan kepemimpinan yang inspiratif.",
+     "Membangun rasa saling percaya dan memfasilitasi kerjasama dalam rangka untuk menciptakan kolaborasi yang kuat diantara warga sekolah/madrasah",
+     "Bekerja keras untuk mencapai keberhasilan sekolah/madrasah sebagai organisasi pembelajar yang efektif.",
+     "Mengembangan kurikulum dan kegiatan pembelajaran sesuai dengan visi, misi, dan tujuan sekolah.",
+     "Mengelola peserta didik dalam rangka pengembangan kapasitasnya secara optimal."
+    ]
+   },
+   {
+    "judul": "Pengembangan Sekolah",
+    "indikator": [
+     "Menyusun rencana pengembangan sekolah/madrasah jangka panjang, menengah, dan pendek dalam rangka mencapai visi, misi, dan tujuan sekolah/madrasah.",
+     "Mengembangkan struktur organisasi sekolah/madrasah yang efektif dan efisien sesuai dengan kebutuhan.",
+     "Melaksanakan pengembangan sekolah/ madrasah sesuai dengan rencana jangka panjang, menengah, dan jangka pendek sekolah menuju tercapainya visi, misi, dan tujuan sekolah.",
+     "Mewujudkan peningkatan kinerja sekolah yang signifikan sesuai dengan visi, misi, tujuan sekolah dan standard nasional pendidikan.",
+     "Melakukan monitoring, evaluasi, dan pelaporan pelaksanaan program kegiatan sekolah/madrasah dengan prosedur yang tepat.",
+     "Merencanakan dan menindaklanjuti hasil monitoring, evaluasi, dan pelaporan.",
+     "Melaksanakan penelitian tindakan sekolah dalam rangka meningkatkan kinerja sekolah/madrasah."
+    ]
+   },
+   {
+    "judul": "Kewirausahaan",
+    "indikator": [
+     "Menciptakan inovasi yang bermanfaat bagi pengembangan sekolah/ madrasah.",
+     "Memiliki motivasi yang kuat untuk sukses dalam melaksanakan tugas pokok dan fungsinya sebagai pemimpin pembelajaran.",
+     "Memotivasi warga sekolah untuk sukses dalam melaksanakan tugas pokok dan fungsinya masing‐ masing.",
+     "Pantang menyerah dan selalu mencari solusi terbaik dalam menghadapi kendala yang dihadapi madrasah.",
+     "Menerapkan nilai dan prinsip‐prinsip kewirausahaan dalam mengembangkan madrasah."
+    ]
+   },
+   {
+    "judul": "Bidang Tugas Wakasek Bidang Akademik/Kurikulum",
+    "indikator": [
+     "Mengelola dan mendayagunakan guru dan tenaga kependidikan secara optimal.",
+     "Menyusun program akademik dan mengelola pelaksanaannya secara efektif, efesien dan sesuai dengan visi dan misi madrasah.",
+     "Menyusun program, melaksanakan, menilai dan menindaklanjuti kegiatan supervisi akademik dengan menggunakan pendekatan dan teknik supervisi yang tepat. dalam rangka peningkatan profesionalisme guru"
+    ]
+   }
+  ]
+ },
+ "WSIS": {
+  "label": "Waka Kesiswaan",
+  "kompetensi": [
+   {
+    "judul": "Kepribadian dan Sosial",
+    "indikator": [
+     "Berakhlak mulia, mengembangkan budaya dan tradisi akhlak mulia, dan menjadi teladan akhlak mulia bagi komunitas di sekolah/madrasah.",
+     "Melaksanakan tugas pokok dan fungsi sebagai wakil kepala sekolah dengan penuh kejujuran, ketulusan, komitmen, dan integritas.",
+     "Bersikap terbuka dalam melaksanakan tugas pokok dan fungsi sebagai wakil kepala sekolah/madrasah.",
+     "Mengendalikan diri dalam menghadapi masalah dan tantangan sebagai wakil kepala sekolah/madrasah.",
+     "Berpartisipasi dalam kegiatan social kemasyarakatan.",
+     "Tanggap dan peduli terhadap kepentingan orang atau kelompok lain.",
+     "Mengembangkan dan mengelola hubungan sekolah/madrasah dengan pihak lain di luar sekolah dalam rangka mendapatkan dukungan ide, sumber belajar, dan pembiayaan sekolah/madrasah."
+    ]
+   },
+   {
+    "judul": "Kepemimpinan",
+    "indikator": [
+     "Bertindak sesuai dengan visi dan misi sekolah/madrasah.",
+     "Merumuskan tujuan yang menantang diri sendiri dan orang lain untuk mencapai standard yang tinggi.",
+     "Mengembangkan sekolah/madrasah menuju organisasi pembelajaran (learning organization).",
+     "Menciptakan budaya dan iklim sekolah/madrasah yang kondusif dan inovatif bagi pembelajaran.",
+     "Memegang teguh tujuan sekolah dengan menjadi contoh dan bertindak sebagai pemimpin pembelajaran.",
+     "Melaksanakan kepemimpinan yang inspiratif.",
+     "Membangun rasa saling percaya dan memfasilitasi kerjasama dalam rangka untuk menciptakan kolaborasi yang kuat diantara warga sekolah/madrasah",
+     "Bekerja keras untuk mencapai keberhasilan sekolah/madrasah sebagai organisasi pembelajar yang efektif.",
+     "Mengembangan kurikulum dan kegiatan pembelajaran sesuai dengan visi, misi, dan tujuan sekolah.",
+     "Mengelola peserta didik dalam rangka pengembangan kapasitasnya secara optimal."
+    ]
+   },
+   {
+    "judul": "Pengembangan Sekolah",
+    "indikator": [
+     "Menyusun rencana pengembangan sekolah/madrasah jangka panjang, menengah, dan pendek dalam rangka mencapai visi, misi, dan tujuan sekolah/madrasah.",
+     "Mengembangkan struktur organisasi sekolah/madrasah yang efektif dan efisien sesuai dengan kebutuhan.",
+     "Melaksanakan pengembangan sekolah/ madrasah sesuai dengan rencana jangka panjang, menengah, dan jangka pendek sekolah menuju tercapainya visi, misi, dan tujuan sekolah.",
+     "Mewujudkan peningkatan kinerja sekolah yang signifikan sesuai dengan visi, misi, tujuan sekolah dan standard nasional pendidikan.",
+     "Melakukan monitoring, evaluasi, dan pelaporan pelaksanaan program kegiatan sekolah/madrasah dengan prosedur yang tepat.",
+     "Merencanakan dan menindaklanjuti hasil monitoring, evaluasi, dan pelaporan.",
+     "Melaksanakan penelitian tindakan sekolah dalam rangka meningkatkan kinerja sekolah/madrasah."
+    ]
+   },
+   {
+    "judul": "Kewirausahaan",
+    "indikator": [
+     "Menciptakan inovasi yang bermanfaat bagi pengembangan sekolah/ madrasah.",
+     "Memiliki motivasi yang kuat untuk sukses dalam melaksanakan tugas pokok dan fungsinya sebagai pemimpin pembelajaran.",
+     "Memotivasi warga sekolah untuk sukses dalam melaksanakan tugas pokok dan fungsinya masing‐ masing.",
+     "Pantang menyerah dan selalu mencari solusi terbaik dalam menghadapi kendala yang dihadapi sekolah/madrasah.",
+     "Menerapkan nilai dan prinsip‐prinsip kewirausahaan dalam mengembangkan sekolah/madrasah."
+    ]
+   },
+   {
+    "judul": "Bidang Tugas Wakasek bidang kesiswaan",
+    "indikator": [
+     "Mengelola peserta didik dalam rangka pengembangan kapasitasnya secara optimal sesuai minat dan bakat masing-masing.",
+     "Mengelola layanan-layanan khusus madrasah dalam mendukung kegiatan pembelajaran dan kegiatan peserta didik di madrasah.",
+     "Melaksanakan bimbingan kegiatan kepeserta didikan, menegakan disiplin dan tata tertib peserta didik"
+    ]
+   }
+  ]
+ },
+ "WSAR": {
+  "label": "Waka Sarpras",
+  "kompetensi": [
+   {
+    "judul": "Kepribadian dan Sosial",
+    "indikator": [
+     "Berakhlak mulia, mengembangkan budaya dan tradisi akhlak mulia, dan menjadi teladan akhlak mulia bagi komunitas di sekolah/madrasah.",
+     "Melaksanakan tugas pokok dan fungsi sebagai wakil kepala sekolah dengan penuh kejujuran, ketulusan, komitmen, dan integritas.",
+     "Bersikap terbuka dalam melaksanakan tugas pokok dan fungsi sebagai wakil kepala sekolah/madrasah.",
+     "Mengendalikan diri dalam menghadapi masalah dan tantangan sebagai wakil kepala sekolah/madrasah.",
+     "Berpartisipasi dalam kegiatan social kemasyarakatan.",
+     "Tanggap dan peduli terhadap kepentingan orang atau kelompok lain.",
+     "Mengembangkan dan mengelola hubungan sekolah/madrasah dengan pihak lain di luar sekolah dalam rangka mendapatkan dukungan ide, sumber belajar, dan pembiayaan sekolah/madrasah."
+    ]
+   },
+   {
+    "judul": "Kepemimpinan",
+    "indikator": [
+     "Bertindak sesuai dengan visi dan misi sekolah/madrasah.",
+     "Merumuskan tujuan yang menantang diri sendiri dan orang lain untuk mencapai standard yang tinggi.",
+     "Mengembangkan sekolah/madrasah menuju organisasi pembelajaran (learning organization).",
+     "Menciptakan budaya dan iklim sekolah/madrasah yang kondusif dan inovatif bagi pembelajaran.",
+     "Memegang teguh tujuan sekolah dengan menjadi contoh dan bertindak sebagai pemimpin pembelajaran.",
+     "Melaksanakan kepemimpinan yang inspiratif.",
+     "Membangun rasa saling percaya dan memfasilitasi kerjasama dalam rangka untuk menciptakan kolaborasi yang kuat diantara warga sekolah/madrasah",
+     "Bekerja keras untuk mencapai keberhasilan sekolah/madrasah sebagai organisasi pembelajar yang efektif.",
+     "Mengembangan kurikulum dan kegiatan pembelajaran sesuai dengan visi, misi, dan tujuan sekolah.",
+     "Mengelola peserta didik dalam rangka pengembangan kapasitasnya secara optimal."
+    ]
+   },
+   {
+    "judul": "Pengembangan Sekolah",
+    "indikator": [
+     "Menyusun rencana pengembangan sekolah/madrasah jangka panjang, menengah, dan pendek dalam rangka mencapai visi, misi, dan tujuan sekolah/madrasah.",
+     "Mengembangkan struktur organisasi sekolah/madrasah yang efektif dan efisien sesuai dengan kebutuhan.",
+     "Melaksanakan pengembangan sekolah/ madrasah sesuai dengan rencana jangka panjang, menengah, dan jangka pendek sekolah menuju tercapainya visi, misi, dan tujuan sekolah.",
+     "Mewujudkan peningkatan kinerja sekolah yang signifikan sesuai dengan visi, misi, tujuan sekolah dan standard nasional pendidikan.",
+     "Melakukan monitoring, evaluasi, dan pelaporan pelaksanaan program kegiatan sekolah/madrasah dengan prosedur yang tepat.",
+     "Merencanakan dan menindaklanjuti hasil monitoring, evaluasi, dan pelaporan.",
+     "Melaksanakan penelitian tindakan sekolah dalam rangka meningkatkan kinerja sekolah/madrasah."
+    ]
+   },
+   {
+    "judul": "Kewirausahaan",
+    "indikator": [
+     "Menciptakan inovasi yang bermanfaat bagi pengembangan sekolah/ madrasah.",
+     "Memiliki motivasi yang kuat untuk sukses dalam melaksanakan tugas pokok dan fungsinya sebagai pemimpin pembelajaran.",
+     "Memotivasi warga sekolah untuk sukses dalam melaksanakan tugas pokok dan fungsinya masing‐ masing.",
+     "Pantang menyerah dan selalu mencari solusi terbaik dalam menghadapi kendala yang dihadapi sekolah/madrasah.",
+     "Menerapkan nilai dan prinsip‐prinsip kewirausahaan dalam mengembangkan sekolah/madrasah."
+    ]
+   },
+   {
+    "judul": "Bidang Tugas Wakasek bidang Sarana dan Prasarana",
+    "indikator": [
+     "Mengelola dan mendayagunakan sarana dan prasarana madrasah secara optimal untuk kepentingan pembelajaran.",
+     "Mengelola lingkungan madrasah yang menjamin keamanan, keselamatan, dan kesehatan.",
+     "Mengelola sarana sistem informasi madrasah dalam mendukung penyusunan program dan pengambilan keputusan."
+    ]
+   }
+  ]
+ },
+ "WHUM": {
+  "label": "Waka Humas",
+  "kompetensi": [
+   {
+    "judul": "Kepribadian dan Sosial",
+    "indikator": [
+     "Berakhlak mulia, mengembangkan budaya dan tradisi akhlak mulia, dan menjadi teladan akhlak mulia bagi komunitas di sekolah/madrasah.",
+     "Melaksanakan tugas pokok dan fungsi sebagai wakil kepala sekolah dengan penuh kejujuran, ketulusan, komitmen, dan integritas.",
+     "Bersikap terbuka dalam melaksanakan tugas pokok dan fungsi sebagai wakil kepala sekolah/madrasah.",
+     "Mengendalikan diri dalam menghadapi masalah dan tantangan sebagai wakil kepala sekolah/madrasah.",
+     "Berpartisipasi dalam kegiatan social kemasyarakatan.",
+     "Tanggap dan peduli terhadap kepentingan orang atau kelompok lain.",
+     "Mengembangkan dan mengelola hubungan sekolah/madrasah dengan pihak lain di luar sekolah dalam rangka mendapatkan dukungan ide, sumber belajar, dan pembiayaan sekolah/madrasah."
+    ]
+   },
+   {
+    "judul": "Kepemimpinan",
+    "indikator": [
+     "Bertindak sesuai dengan visi dan misi sekolah/madrasah.",
+     "Merumuskan tujuan yang menantang diri sendiri dan orang lain untuk mencapai standard yang tinggi.",
+     "Mengembangkan sekolah/madrasah menuju organisasi pembelajaran (learning organization).",
+     "Menciptakan budaya dan iklim sekolah/madrasah yang kondusif dan inovatif bagi pembelajaran.",
+     "Memegang teguh tujuan sekolah dengan menjadi contoh dan bertindak sebagai pemimpin pembelajaran.",
+     "Melaksanakan kepemimpinan yang inspiratif.",
+     "Membangun rasa saling percaya dan memfasilitasi kerjasama dalam rangka untuk menciptakan kolaborasi yang kuat diantara warga sekolah/madrasah",
+     "Bekerja keras untuk mencapai keberhasilan sekolah/madrasah sebagai organisasi pembelajar yang efektif.",
+     "Mengembangan kurikulum dan kegiatan pembelajaran sesuai dengan visi, misi, dan tujuan sekolah.",
+     "Mengelola peserta didik dalam rangka pengembangan kapasitasnya secara optimal."
+    ]
+   },
+   {
+    "judul": "Pengembangan Sekolah",
+    "indikator": [
+     "Menyusun rencana pengembangan sekolah/madrasah jangka panjang, menengah, dan pendek dalam rangka mencapai visi, misi, dan tujuan sekolah/madrasah.",
+     "Mengembangkan struktur organisasi sekolah/madrasah yang efektif dan efisien sesuai dengan kebutuhan.",
+     "Melaksanakan pengembangan sekolah/ madrasah sesuai dengan rencana jangka panjang, menengah, dan jangka pendek sekolah menuju tercapainya visi, misi, dan tujuan sekolah.",
+     "Mewujudkan peningkatan kinerja sekolah yang signifikan sesuai dengan visi, misi, tujuan sekolah dan standard nasional pendidikan.",
+     "Melakukan monitoring, evaluasi, dan pelaporan pelaksanaan program kegiatan sekolah/madrasah dengan prosedur yang tepat.",
+     "Merencanakan dan menindaklanjuti hasil monitoring, evaluasi, dan pelaporan.",
+     "Melaksanakan penelitian tindakan sekolah dalam rangka meningkatkan kinerja sekolah/madrasah."
+    ]
+   },
+   {
+    "judul": "Kewirausahaan",
+    "indikator": [
+     "Menciptakan inovasi yang bermanfaat bagi pengembangan sekolah/ madrasah.",
+     "Memiliki motivasi yang kuat untuk sukses dalam melaksanakan tugas pokok dan fungsinya sebagai pemimpin pembelajaran.",
+     "Memotivasi warga sekolah untuk sukses dalam melaksanakan tugas pokok dan fungsinya masing‐ masing.",
+     "Pantang menyerah dan selalu mencari solusi terbaik dalam menghadapi kendala yang dihadapi sekolah/madrasah.",
+     "Menerapkan nilai dan prinsip‐prinsip kewirausahaan dalam mengembangkan sekolah/madrasah."
+    ]
+   },
+   {
+    "judul": "Bidang Tugas Wakasek bidang Humas",
+    "indikator": [
+     "Membangun jejaring kerja sama dengan pihak luar.",
+     "Mengelola hubungan madrasah dengan pihak lain di luar madrasah dalam rangka mendapatkan dukungan ide, sumber belajar, dan pembiayaan madrasah.",
+     "Mempublisasikan kebijakan, program Madrasah dan prestasi madrasah pada pihak diluar madrasah."
+    ]
+   }
+  ]
+ },
+ "LAB": {
+  "label": "Kepala Laboratorium",
+  "kompetensi": [
+   {
+    "judul": "Kepribadian",
+    "indikator": [
+     "Berperilaku arif dalam bertindak dan memecahkan masalah",
+     "Berperilaku jujur atas semua informasi kedinasan",
+     "Menunjukkan kemandirian dalam bekerja di bidangnya",
+     "Menunjukkan rasa percaya diri atas keputusan yang diambil",
+     "Berupaya meningkatkan kemampuan diri di bidangnya",
+     "Bertindak secara konsisten sesuai dengan norma agama,hukum, sosial, dan budaya nasional Indonesia",
+     "Berperilaku disiplin atas waktu dan aturan",
+     "Bertanggung jawab terhadap tugas",
+     "Tekun, teliti, dan hati-hati dalam melaksanakan tugas",
+     "Kreatif dalam memecahkan masalah yang berkaitan dengan tugas profesinya",
+     "Berorientasi pada kualitas dan kepuasan layanan pemakai laboratorium"
+    ]
+   },
+   {
+    "judul": "Berperilaku jujur atas semua informasi kedinasan",
+    "indikator": [
+     "Menyadari kekuatan dan kelemahan diri",
+     "Bekerja sama dengan berbagai pihak secara efektif",
+     "Berkomunikasi dengan berbagai pihak secara santun, empati,dan efektif."
+    ]
+   },
+   {
+    "judul": "Pengelolaan Program dan Administrasi",
+    "indikator": [
+     "Menyusun program pengelolaan laboratorium",
+     "Menyusun jadwal kegiatan laboratorium",
+     "Menyusun rencana pengembangan laboratorium",
+     "Menyusun prosedur operasi standar (POS) kerja laboratorium",
+     "Menyusun laporan kegiatan laboratorium"
+    ]
+   },
+   {
+    "judul": "Pengelolaan Pemantauan dan Evaluasi",
+    "indikator": [
+     "Memantau kondisi dan keamanan bahan serta alat laboratorium",
+     "Memantau pelaksanaan kegiatan laboratorium",
+     "Membuat laporan bulanan dan tahunan tentang kondisi dan pemanfaatan laboratorium",
+     "Membuat laporan kegiatan secara periodik setiap semester",
+     "Mengevaluasi program laboratorium untuk perbaikan selanjutnya"
+    ]
+   },
+   {
+    "judul": "Pengembangan dan Inovasi",
+    "indikator": [
+     "Mengikuti perkembangan tentang pemanfaatan kegiatan laboratorium sebagai wahana pendidikan",
+     "Menerapkan hasil inovasi atau kajian laboratorium",
+     "Merancang kegiatan laboratorium untuk pendidikan dan penelitian",
+     "Melaksanakan kegiatan laboratorium untuk kepentingan pendidikan dan penelitian."
+    ]
+   },
+   {
+    "judul": "Pengelolaan Lingkungan dan K3",
+    "indikator": [
+     "Menyusun panduan/petunjuk praktikum.",
+     "Menetapkan ketentuan mengenai kesehatan dan keselamatan kerja (K3)",
+     "Menerapkan ketentuan mengenai kesehatan dan keselamatan kerja (K3).",
+     "Menerapkan prosedur penanganan bahan berbahaya dan beracun.",
+     "Memantau bahan berbahaya dan beracun, serta peralatan keselamatan kerja."
+    ]
+   }
+  ]
+ },
+ "PUS": {
+  "label": "Kepala Perpustakaan",
+  "kompetensi": [
+   {
+    "judul": "Merencanakan penyelenggaraan kegiatan perpustakaan",
+    "indikator": [
+     "Memiliki dokumen perumusan visi-misi perpustakaan sekolah/madrasah yang ditetapkan dengan Surat Keputusan Kepala Sekolah/madrasah",
+     "Memiliki naskah kebijakan pengembangan koleksi perpustakaan",
+     "Memiliki dokumen renstra penyelenggaraan kegiatan perpustakaan jangka menengah dan panjang",
+     "Memiliki naskah program kerja tahunan penyelenggaraan kegiatan perpustakaan",
+     "Memiliki naskah program literasi sekolah"
+    ]
+   },
+   {
+    "judul": "Melaksanakan monitoring dan evaluasi penyelenggaraan kegiatan perpustakaan",
+    "indikator": [
+     "Memiliki naskah instrumen monitoring dan evaluasi penyelenggaraan kegiatan perpustakaan",
+     "Memiliki laporan pelaksanaan monitoring dan evaluasi penyelenggaraan kegiatan perpustakaan",
+     "Memiliki naskah instrumen monitoring dan evaluasi pengembangan sumber daya perpustakaan",
+     "Memiliki laporan pelaksanaan monitoring dan evaluasi pengembangan sumber daya perpustakaan",
+     "Memiliki naskah instrumen monitoring dan evaluasi anggaran perpustakaan",
+     "Memiliki laporan pelaksanaan monitoring dan evaluasi anggaran perpustakaan"
+    ]
+   },
+   {
+    "judul": "Melaksanakan Pelayanan teknis",
+    "indikator": [
+     "Memiliki laporan jumlah seleksi buku usulan pengadaan bahan perpustakaan pada tiga tahun terakhir",
+     "Memiliki laporan jumlah buku yang diklasifikasi tiga tahun terakhir",
+     "Memiliki laporan jumlah buku yang ditentukan tajuk subyek pada tiga tahun terakhir",
+     "Memiliki laporan jumlah penyusunan alat telusur/katalog pada tiga tahun terakhir",
+     "Memiliki laporan jumlah perawatan koleksi perpustakaan pada tiga tahun terakhir"
+    ]
+   },
+   {
+    "judul": "Melaksanakan Pelayanan pustaka",
+    "indikator": [
+     "Memiliki laporan jumlah pengunjung manual dan online pada tiga tahun terakhir",
+     "Memiliki laporan jumlah Peminjam dan buku yang dipinjam pada tiga tahun terakhir",
+     "Memiliki laporan jumlah pemustaka yang dilayani jasa rujukan manual dan online pada tiga tahun terakhir",
+     "Memiliki laporan kegiatan pendidikan pemakai pada tiga tahun terakhir"
+    ]
+   },
+   {
+    "judul": "Melaksanakan Pengkajian Kepustakawanan",
+    "indikator": [
+     "Memiliki naskah kajian minat baca",
+     "Memiliki naskah kajian kepuasan pemustaka",
+     "Memiliki naskah kajian keterpakaian perpustakaan dalam pembelajaran",
+     "Memiliki naskah kajian literasi sekolah"
+    ]
+   },
+   {
+    "judul": "Melaksanakan Pengembangan Kepustakawanan",
+    "indikator": [
+     "Memiliki dokumen promosi perpustakaan",
+     "Memiliki laporan sosialisasi perpustakaan",
+     "Memiliki laporan literasi perpustakaan",
+     "Memiliki dokumen makalah/tulisan tentang perpustakaan"
+    ]
+   },
+   {
+    "judul": "Melaksanakan Pengembangan Profesi Kepustakawanan",
+    "indikator": [
+     "Memiliki sertifikat kegiatan pendidikan dan pelatihan dan atau bimbingan teknis di bidang Kepustakawanan",
+     "Memiliki sertifikat kegiatan seminar/lokakarya/konferensi di bidang Kepustakawanan",
+     "Memiliki surat tugas/sertifikat kegiatan magang/studi banding perpustakaan",
+     "Memiliki dokumen kepengurusan/anggota organisasi profesi di bidang Kepustakawanan"
+    ]
+   },
+   {
+    "judul": "Melaksanakan Tugas Pelayanan",
+    "indikator": [
+     "Berperilaku sopan",
+     "Berpenampilan rapi",
+     "Memberikan pelayanan sesuai kebutuhan pemustaka"
+    ]
+   },
+   {
+    "judul": "Memiliki Integritas",
+    "indikator": [
+     "Berperilaku sesuai dengan kode etik pustakawan (mematuhi norma dan etika kepustakawanan)",
+     "Bertanggungjawab dalam melaksanakan tugas",
+     "Melaksanakan keputusan/kesepakatan yang telah dibuat"
+    ]
+   },
+   {
+    "judul": "Memiliki Kedisiplinan",
+    "indikator": [
+     "Mematuhi aturan jam kerja pegawai",
+     "Meminta ijin atasan bila meninggalkan tugas",
+     "Melaksanakan tugas tepat waktu"
+    ]
+   },
+   {
+    "judul": "Melaksanakan Kerja sama",
+    "indikator": [
+     "Menghargai atasan",
+     "Menghargai teman sejawat",
+     "Terlibat dalam aktivitas bersama"
+    ]
+   }
+  ]
+ }
+}
